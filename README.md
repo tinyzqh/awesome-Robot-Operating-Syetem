@@ -16,7 +16,7 @@
 # 自动驾驶
 
 * [Google工程师：从零开始学习无人驾驶技术 ——端到端无人驾驶](https://www.leiphone.com/news/201706/RuoKaDSTmd1dClUV.html)
-* [在ROS Kinetic和Gazebo 8中使用智能汽车仿真演示](https://blog.csdn.net/ZhangRelay/article/details/74534069)
+* [在ROS Kinetic和Gazebo 8中使用智能汽车仿真演示](https://blog.csdn.net/ZhangRelay/article/details/74534069) [原文](https://github.com/osrf/car_demo)
 * [ROS Robotics Projects（8）自动驾驶汽车](https://blog.csdn.net/ZhangRelay/article/details/77324002)
 
 ## ROS-RL-Kinetic
