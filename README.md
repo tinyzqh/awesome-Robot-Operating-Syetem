@@ -22,6 +22,7 @@
 ## ROS-RL-Kinetic
 
 * Deep RL Arm Manipulation : https://github.com/gwwang16/DeepRL-Robot-Arm ; https://github.com/zenetio/DeepRL-Robotic ; https://github.com/mkhuthir/RoboND-DeepRL-Project
+* A reinforcement learning environment using Gazebo, ROS and openAI gym : https://github.com/deePurrobotics/gazebo_rl
 * a turtlebot reinforcement learning in Gazebo : https://github.com/linZHank/turtlebot_rl ; 依赖python3
 * An OpenAI gym extension for using Gazebo known as gym-gazebo： https://github.com/erlerobot/gym-gazebo
 * Factory_RL_Gazebo:https://github.com/MLCS-Yonsei/Factory_RL_Gazebo
@@ -31,7 +32,6 @@
 * Deep reinforcement learning for UAV in Gazebo simulation environment : https://github.com/PX4-Gazebo-Simulation/drl_uav
 * Reinforcement Learning with Gazebo & Rospy & Keras : https://github.com/HowoongJun/RL_with_Gazebo
 * A drone control system based on deep reinforcement learning with Tensorflow and ROS : https://github.com/tobiasfshr/deep-reinforcement-learning-drone-control
-* A reinforcement learning environment using Gazebo, ROS and openAI gym : https://github.com/deePurrobotics/gazebo_rl
 * SLAM-Safe Planner: Preventing Monocular SLAM Failure using Reinforcement Learning : https://github.com/ssingh82/rl_nav
 * Reinforcement Learning framework for Robotics : https://github.com/angelmtenor/RL-ROBOT
 * ROS implementation of multi-task reinforcement learning for Turtlebot 2 : https://github.com/lileee/Robotics-RL
