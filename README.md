@@ -39,7 +39,7 @@
 * Autonomous Drifting using Reinforcement Learning : https://github.com/kanakkabara/Autonomous-Drifting
 * Overcoming Exploration in Reinforcement Learning with Demonstrations : https://github.com/jangirrishabh/Overcoming-exploration-from-demos
 * QLearning-NAO_plays_Agario : https://github.com/albertpumarola/QLearning-NAO_plays_Agario
-
+* A Robotic Auto-Focus System based on Reinforcement Learning：https://github.com/Orienfish/ur3-RL
 * ROS/Gazebo simulations for reinforcement learning exercises : https://github.com/caasted/sphere_games
 * Implement DQN in Stage simulator in ROS for Deep Reinforcement Learning using Google DeepMind. : https://github.com/Voidminded/DQNStageROS 
 * Deep (Reinforcement?) Learning for stage simulated robots : https://github.com/rakeshshrestha31/ros_stage_deepnet
