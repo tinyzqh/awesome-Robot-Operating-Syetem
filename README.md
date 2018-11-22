@@ -39,7 +39,7 @@
 * Autonomous Drifting using Reinforcement Learning : https://github.com/kanakkabara/Autonomous-Drifting
 * Overcoming Exploration in Reinforcement Learning with Demonstrations : https://github.com/jangirrishabh/Overcoming-exploration-from-demos
 * QLearning-NAO_plays_Agario : https://github.com/albertpumarola/QLearning-NAO_plays_Agario
-* Training Neural Networks for Event-Based End-to-End Robot Control : https://github.com/clamesc/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control
+
 * ROS/Gazebo simulations for reinforcement learning exercises : https://github.com/caasted/sphere_games
 * Implement DQN in Stage simulator in ROS for Deep Reinforcement Learning using Google DeepMind. : https://github.com/Voidminded/DQNStageROS 
 * Deep (Reinforcement?) Learning for stage simulated robots : https://github.com/rakeshshrestha31/ros_stage_deepnet
@@ -48,6 +48,7 @@
 
 ## ROS-RL-Indigo
 
+* Training Neural Networks for Event-Based End-to-End Robot Control : https://github.com/clamesc/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control
 * Learnign high-level reasoning of human interactions in a scoial greeting using deep reinforcement learning : 
 * ROS package for reinforcement learning on Baxter robot ：https://github.com/xli4217/baxter_learn
 * Using a Unity3D package to connect to ROS topics, robots can be simulated in the game-engine with communication to a Reinforcement Learning Algorithm. ：https://github.com/Mediemanden/Unity3D-ROS-RL
