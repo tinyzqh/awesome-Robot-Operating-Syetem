@@ -18,7 +18,10 @@
 * [Google工程师：从零开始学习无人驾驶技术 ——端到端无人驾驶](https://www.leiphone.com/news/201706/RuoKaDSTmd1dClUV.html)
 * [在ROS Kinetic和Gazebo 8中使用智能汽车仿真演示](https://blog.csdn.net/ZhangRelay/article/details/74534069); 原文 [链接](https://github.com/osrf/car_demo)
 * [ROS Robotics Projects（8）自动驾驶汽车](https://blog.csdn.net/ZhangRelay/article/details/77324002)
-
+### demo
+* [A 4 servo arm control program learn to perform reaching task by deep reinforcement learning. ](https://github.com/wswlymf/VisualArm)
+* [Solutions to various tasks using reinforcement learning and optimal control (trajectory optimization)](https://github.com/aravindr93/RL-tasks)
+* [This module allows to carry out a two-finger stable grasp by means of a controller developed using reinforcement learning. ](https://github.com/tacman-fp7/gaussian-process-controller)
 ### ROS-RL-Kinetic
 
 * Deep RL Arm Manipulation : https://github.com/gwwang16/DeepRL-Robot-Arm ; https://github.com/zenetio/DeepRL-Robotic ; https://github.com/mkhuthir/RoboND-DeepRL-Project
