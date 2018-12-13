@@ -57,6 +57,9 @@
 * [Reinforcement for state of the art visual slam algorithms with Deep Learning based solutions. Part of my master thesis at University of Freiburg](https://github.com/akhilthomas17/reinforced_visual_slam)
 * [Using a Unity3D package to connect to ROS topics, robots can be simulated in the game-engine with communication to a Reinforcement Learning Algorithm](https://github.com/Mediemanden/Unity3D-ROS-RL)
 
+### Self Driving
+[Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car)
+[Self-Driving Truck in Euro Truck Simulator 2, trained via Reinforcement Learning ](https://github.com/RyanZotti/Self-Driving-Car)
 ### 论文复现
 * [A Robotic Auto-Focus System based on Deep Reinforcement Learning](https://github.com/Orienfish/ur3-RL)
 
