@@ -7,8 +7,8 @@
 ## 网址：
 
 * [ROS wiki](http://wiki.ros.org/cn)
-* Awesome Robotics：https://github.com/kiloreux/awesome-robotics
-* Awesome Robotics Libraries：https://github.com/jslee02/awesome-robotics-libraries
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [古月居博客](http://www.guyuehome.com/)
 * [zhangrelay的专栏](https://blog.csdn.net/zhangrelay)
 
