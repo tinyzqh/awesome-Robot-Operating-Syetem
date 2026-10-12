@@ -11,6 +11,7 @@
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [古月居博客](http://www.guyuehome.com/)
 * [zhangrelay的专栏](https://blog.csdn.net/zhangrelay)
+* [Botstest](https://botstest.com/)：具身智能与机器人资源导航，按类别汇集 ROS 2、仿真、机器人学习和软硬件资源。
 
 ## 实战 
 #### 自动驾驶
